@@ -47,6 +47,8 @@ It is scalable to millions of learners with significantly reduced environmental 
 ## Collaborations
 
 - EvidenceB
-- OpenLLM-France
+- Inria
+- ClassCode / OpenLLM-France
 - Région Île-de-France
-- Academic and industrial EdTech community
+- Le café pédagogique
+- Scaleway
